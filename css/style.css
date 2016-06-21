@@ -1,0 +1,8 @@
+footer{
+    height: 100px;
+    width: 100%;
+    background-image: url('../img/trees futher.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
